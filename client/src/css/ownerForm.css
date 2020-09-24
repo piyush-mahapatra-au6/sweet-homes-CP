@@ -1,0 +1,24 @@
+/* .mainForm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+} */
+
+
+.formBox{
+    
+    box-shadow: 0 0 0 5px firebrick;
+    outline: dashed 5px darkturquoise;
+    padding:2rem
+     
+}
+.formBox3{
+    
+    box-shadow: 0 0 0 5px firebrick;
+    outline: dashed 5px darkturquoise;
+    padding:0.5rem;
+
+    margin-left: 35%;
+     
+}
